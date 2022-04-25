@@ -4,6 +4,8 @@ Hi 👋 My name is Guilherme Augusto
 I'm a Backend developer
 -----------------------
 
+![download](https://user-images.githubusercontent.com/76450169/165084594-3b68b742-ddb0-414c-8f25-c80570f2189c.png)
+
 I'm studying programming for 1 year, I'm focused on improving my knowledge in NodeJS and React, after finishing college I intend to enter a college doing a Technologist in Development course, studying 2 years
 
 *   🌍  I'm based in First Job
