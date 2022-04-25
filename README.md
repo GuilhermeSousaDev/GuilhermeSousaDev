@@ -1,4 +1,5 @@
-Hi 👋 My name is Guilherme Augusto
+Hi 👋 My name is Guilherme Augusto![1f1e7-1f1f7](https://user-images.githubusercontent.com/76450169/165083296-15e2e1d0-0bb9-455f-ac21-01952c4b6985.png)
+
 ==================================
 
 I'm a Backend developer
