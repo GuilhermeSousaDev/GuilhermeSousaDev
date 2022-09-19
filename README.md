@@ -27,7 +27,6 @@ I study programming for 1 year, I'm focused on improving my knowledge in NodeJS 
                                 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
                                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                              ![download](https://user-images.githubusercontent.com/76450169/191137782-9441abb8-573a-4b9a-8e59-104768b40b57.png)
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-                    </p>
-                    
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/76450169/191137885-3380c619-b008-4206-876b-3f4b2dc9a6ea.png" width="36" height="36" alt="Redux" /></a>
+</p>         
