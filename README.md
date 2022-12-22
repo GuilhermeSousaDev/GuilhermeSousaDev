@@ -1,15 +1,13 @@
 Hi 👋 My name is Guilherme Augusto
 ==================================
 
-I'm a Backend developer
+I'm a FullStack developer
 -----------------------
 
 ![download](https://user-images.githubusercontent.com/76450169/165084594-3b68b742-ddb0-414c-8f25-c80570f2189c.png)
 
-I study programming for 1 year, I'm focused on improving my knowledge in NodeJS and React
-
 *   ✉️  You can contact me at [guilhermesousadev@gmail.com](mailto:guilhermesousadev@gmail.com)
-*   🧠  I'm learning VueJS
+*   🧠  I'm learning React Native
 
 ### Skills
 
