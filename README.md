@@ -7,7 +7,6 @@ I'm a FullStack developer
 ![download](https://user-images.githubusercontent.com/76450169/165084594-3b68b742-ddb0-414c-8f25-c80570f2189c.png)
 
 *   ✉️  You can contact me at [guilhermesousadev@gmail.com](mailto:guilhermesousadev@gmail.com)
-*   🧠  I'm looking for the first job
 
 ### Skills
 
